@@ -1,0 +1,6 @@
+[submodule "olx-frontend"]
+	path = olx-frontend
+	url = https://github.com/360manish/OLXIITG-frontend.git
+[submodule "olx-backend"]
+	path = olx-backend
+	url = https://github.com/360manish/campus_olx_backend_2.git
